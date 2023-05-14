@@ -1,0 +1,10 @@
+# Message that will show to the player when trying to combine/separate without placing all the required items
+items_not_placed: "&cPlace all required items first!"
+
+# Message that will show to the player when trying to combine/separate without picking up the items from
+# the previous action
+remove_items_message: "&cPick up all the items before using again"
+
+# Message that will show to the player when trying to place an invalid item in a menu slot (e.g trying to place
+# a chestplate in the elytra slot in the combination menu)
+invalid_item_message: "&cYou cannot place that item here!"

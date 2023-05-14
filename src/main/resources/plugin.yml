@@ -1,0 +1,15 @@
+name: SakuraElytra
+version: '${project.version}'
+main: io.github.itstaylz.sakuraelytra.SakuraElytraPlugin
+api-version: 1.13
+authors: [ itsTaylz ]
+depend: [Hexlib, SakuraRunes]
+commands:
+
+  sakuraelytra:
+    permission: sakuraelytra.menu
+    permission-message: §cNo permission
+
+  sakuraelytrareload:
+    permission: sakuraelytra.reload
+    permission-message: §cNo permission
